@@ -1,0 +1,62 @@
+﻿  vid_menu.c
+  vid_dll.c
+  sys_win.c
+  snd_win.c
+  q_shwin.c
+  net_wins.c
+d:\work\aman\quake-2\win32\net_wins.c(484): warning C4133: 'function': incompatible types - from 'qboolean *' to 'u_long *'
+  in_win.c
+  conproc.c
+  cd_win.c
+  sv_world.c
+  sv_user.c
+  sv_send.c
+  sv_main.c
+  sv_init.c
+  sv_game.c
+  sv_ents.c
+  sv_ccmds.c
+  pmove.c
+  net_chan.c
+  md4.c
+  Generating Code...
+d:\work\aman\quake-2\win32\in_win.c(574): warning C4715: 'RawValuePointer': not all control paths return a value
+d:\work\aman\quake-2\win32\net_wins.c(124): warning C4715: 'NET_CompareAdr': not all control paths return a value
+d:\work\aman\quake-2\win32\net_wins.c(154): warning C4715: 'NET_CompareBaseAdr': not all control paths return a value
+  Compiling...
+  files.c
+  cvar.c
+  crc.c
+  common.c
+  cmodel.c
+  cmd.c
+  q_shared.c
+  m_flash.c
+  x86.c
+  snd_mix.c
+  snd_mem.c
+  snd_dma.c
+  qmenu.c
+  menu.c
+  keys.c
+d:\work\aman\quake-2\client\keys.c(243): warning C4013: 'toupper' undefined; assuming extern returning int
+  console.c
+  cl_view.c
+  cl_tent.c
+  cl_scrn.c
+  cl_pred.c
+  Generating Code...
+d:\work\aman\quake-2\client\menu.c(3580): warning C4715: 'PlayerConfig_ScanDirectories': not all control paths return a value
+  Compiling...
+  cl_parse.c
+  cl_newfx.c
+  cl_main.c
+  cl_inv.c
+  cl_input.c
+  cl_fx.c
+  cl_ents.c
+  cl_cin.c
+  Generating Code...
+d:\work\aman\quake-2\client\cl_input.c(479): warning C4700: uninitialized local variable 'buf' used
+  quake2.vcxproj -> D:\work\aman\Quake-2\Quake2\quake2.exe
+  quake2.vcxproj -> D:\work\aman\Quake-2\Quake2\quake2.pdb (Full PDB)

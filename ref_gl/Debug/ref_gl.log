@@ -1,0 +1,20 @@
+﻿  gl_warp.c
+  gl_rsurf.c
+  gl_rmisc.c
+  gl_rmain.c
+d:\work\aman\quake-2\ref_gl\gl_rmain.c(1651): warning C4133: '=': incompatible types - from 'int (__cdecl *)(void *,void *)' to 'qboolean (__cdecl *)(void *,void *)'
+  gl_model.c
+  gl_mesh.c
+  gl_light.c
+  gl_image.c
+  gl_draw.c
+  q_shwin.c
+  qgl_win.c
+  glw_imp.c
+  q_shared.c
+  Generating Code...
+d:\work\aman\quake-2\ref_gl\gl_image.c(1223): warning C4715: 'GL_Upload8': not all control paths return a value
+d:\work\aman\quake-2\ref_gl\gl_rmain.c(1341): warning C4715: 'R_Init': not all control paths return a value
+     Creating library D:\work\aman\Quake-2\Quake2\ref_gl.lib and object D:\work\aman\Quake-2\Quake2\ref_gl.exp
+  ref_gl.vcxproj -> D:\work\aman\Quake-2\Quake2\ref_gl.dll
+  ref_gl.vcxproj -> D:\work\aman\Quake-2\Quake2\ref_gl.pdb (Full PDB)

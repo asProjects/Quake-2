@@ -1,0 +1,89 @@
+﻿  gl_warp.c
+d:\work\aman\quake-2\ref_gl\gl_warp.c(631): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(346): note: see declaration of 'strncpy'
+  gl_rsurf.c
+  gl_rmisc.c
+d:\work\aman\quake-2\ref_gl\gl_rmisc.c(115): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+d:\work\aman\quake-2\ref_gl\gl_rmisc.c(122): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+d:\work\aman\quake-2\ref_gl\gl_rmisc.c(154): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+  gl_rmain.c
+d:\work\aman\quake-2\ref_gl\gl_rmain.c(1162): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+d:\work\aman\quake-2\ref_gl\gl_rmain.c(1163): warning C4996: 'strlwr': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strlwr. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(574): note: see declaration of 'strlwr'
+d:\work\aman\quake-2\ref_gl\gl_rmain.c(1165): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+d:\work\aman\quake-2\ref_gl\gl_rmain.c(1166): warning C4996: 'strlwr': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strlwr. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(574): note: see declaration of 'strlwr'
+d:\work\aman\quake-2\ref_gl\gl_rmain.c(1419): warning C4996: 'putenv': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _putenv. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1349): note: see declaration of 'putenv'
+d:\work\aman\quake-2\ref_gl\gl_rmain.c(1421): warning C4996: 'putenv': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _putenv. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1349): note: see declaration of 'putenv'
+d:\work\aman\quake-2\ref_gl\gl_rmain.c(1651): warning C4133: '=': incompatible types - from 'int (__cdecl *)(void *,void *)' to 'qboolean (__cdecl *)(void *,void *)'
+d:\work\aman\quake-2\ref_gl\gl_rmain.c(1674): warning C4996: 'vsprintf': This function or variable may be unsafe. Consider using vsprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1465): note: see declaration of 'vsprintf'
+d:\work\aman\quake-2\ref_gl\gl_rmain.c(1686): warning C4996: 'vsprintf': This function or variable may be unsafe. Consider using vsprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1465): note: see declaration of 'vsprintf'
+  gl_model.c
+d:\work\aman\quake-2\ref_gl\gl_model.c(222): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+  gl_mesh.c
+  gl_light.c
+  gl_image.c
+d:\work\aman\quake-2\ref_gl\gl_image.c(1254): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+d:\work\aman\quake-2\ref_gl\gl_image.c(1358): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  gl_draw.c
+  q_shwin.c
+  qgl_win.c
+d:\work\aman\quake-2\win32\qgl_win.c(3039): warning C4996: 'putenv': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _putenv. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1349): note: see declaration of 'putenv'
+d:\work\aman\quake-2\win32\qgl_win.c(3041): warning C4996: 'putenv': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _putenv. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1349): note: see declaration of 'putenv'
+d:\work\aman\quake-2\win32\qgl_win.c(3436): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\time.h(505): note: see declaration of 'localtime'
+d:\work\aman\quake-2\win32\qgl_win.c(3438): warning C4996: 'asctime': This function or variable may be unsafe. Consider using asctime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\time.h(116): note: see declaration of 'asctime'
+d:\work\aman\quake-2\win32\qgl_win.c(3441): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+d:\work\aman\quake-2\win32\qgl_win.c(3443): warning C4996: 'asctime': This function or variable may be unsafe. Consider using asctime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\time.h(116): note: see declaration of 'asctime'
+  glw_imp.c
+d:\work\aman\quake-2\win32\glw_imp.c(51): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+d:\work\aman\quake-2\win32\glw_imp.c(52): warning C4996: 'strlwr': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strlwr. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(574): note: see declaration of 'strlwr'
+d:\work\aman\quake-2\win32\glw_imp.c(83): warning C4133: '=': incompatible types - from 'char [8]' to 'LPCWSTR'
+d:\work\aman\quake-2\win32\glw_imp.c(124): warning C4133: 'function': incompatible types - from 'char [8]' to 'LPCWSTR'
+d:\work\aman\quake-2\win32\glw_imp.c(125): warning C4133: 'function': incompatible types - from 'char [8]' to 'LPCWSTR'
+d:\work\aman\quake-2\win32\glw_imp.c(330): warning C4133: 'function': incompatible types - from 'char [8]' to 'LPCWSTR'
+d:\work\aman\quake-2\win32\glw_imp.c(357): warning C4996: 'GetVersionExW': was declared deprecated
+  c:\program files (x86)\windows kits\8.1\include\um\sysinfoapi.h(442): note: see declaration of 'GetVersionExW'
+d:\work\aman\quake-2\win32\glw_imp.c(594): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _stricmp. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(568): note: see declaration of 'stricmp'
+  q_shared.c
+d:\work\aman\quake-2\game\q_shared.c(876): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(346): note: see declaration of 'strncpy'
+d:\work\aman\quake-2\game\q_shared.c(897): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(346): note: see declaration of 'strncpy'
+d:\work\aman\quake-2\game\q_shared.c(923): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note: see declaration of 'strcat'
+d:\work\aman\quake-2\game\q_shared.c(1056): warning C4996: 'vsprintf': This function or variable may be unsafe. Consider using vsprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1465): note: see declaration of 'vsprintf'
+d:\work\aman\quake-2\game\q_shared.c(1185): warning C4013: 'strcasecmp' undefined; assuming extern returning int
+d:\work\aman\quake-2\game\q_shared.c(1230): warning C4996: 'vsprintf': This function or variable may be unsafe. Consider using vsprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1465): note: see declaration of 'vsprintf'
+d:\work\aman\quake-2\game\q_shared.c(1234): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(346): note: see declaration of 'strncpy'
+d:\work\aman\quake-2\game\q_shared.c(1334): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+  Generating Code...
+d:\work\aman\quake-2\ref_gl\gl_image.c(1223): warning C4715: 'GL_Upload8': not all control paths return a value
+d:\work\aman\quake-2\ref_gl\gl_rmain.c(1341): warning C4715: 'R_Init': not all control paths return a value
+q_shared.obj : error LNK2019: unresolved external symbol strcasecmp referenced in function Q_stricmp
+q_shwin.obj : error LNK2019: unresolved external symbol __imp_timeGetTime referenced in function Sys_Milliseconds
+gl_light.obj : error LNK2019: unresolved external symbol Q_ftol referenced in function R_AddDynamicLights
+D:\work\aman\Quake-2\x64\Debug\ref_gl.dll : fatal error LNK1120: 3 unresolved externals

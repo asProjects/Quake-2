@@ -1,0 +1,278 @@
+﻿  q_shared.c
+d:\work\aman\quake-2\game\q_shared.c(876): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(346): note: see declaration of 'strncpy'
+d:\work\aman\quake-2\game\q_shared.c(897): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(346): note: see declaration of 'strncpy'
+d:\work\aman\quake-2\game\q_shared.c(923): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note: see declaration of 'strcat'
+d:\work\aman\quake-2\game\q_shared.c(1056): warning C4996: 'vsprintf': This function or variable may be unsafe. Consider using vsprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1465): note: see declaration of 'vsprintf'
+d:\work\aman\quake-2\game\q_shared.c(1185): warning C4013: 'strcasecmp' undefined; assuming extern returning int
+d:\work\aman\quake-2\game\q_shared.c(1230): warning C4996: 'vsprintf': This function or variable may be unsafe. Consider using vsprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1465): note: see declaration of 'vsprintf'
+d:\work\aman\quake-2\game\q_shared.c(1234): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(346): note: see declaration of 'strncpy'
+d:\work\aman\quake-2\game\q_shared.c(1334): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+  p_weapon.c
+  p_view.c
+  p_trail.c
+  p_hud.c
+d:\work\aman\quake-2\game\p_hud.c(126): warning C4311: 'type cast': pointer truncation from 'char **' to 'int'
+d:\work\aman\quake-2\game\p_hud.c(129): warning C4311: 'type cast': pointer truncation from 'char **' to 'int'
+d:\work\aman\quake-2\game\p_hud.c(131): warning C4311: 'type cast': pointer truncation from 'char **' to 'int'
+d:\work\aman\quake-2\game\p_hud.c(138): warning C4311: 'type cast': pointer truncation from 'char **' to 'int'
+d:\work\aman\quake-2\game\p_hud.c(140): warning C4311: 'type cast': pointer truncation from 'char **' to 'int'
+d:\work\aman\quake-2\game\p_hud.c(205): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+d:\work\aman\quake-2\game\p_hud.c(231): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+d:\work\aman\quake-2\game\p_hud.c(242): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+d:\work\aman\quake-2\game\p_hud.c(234): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+d:\work\aman\quake-2\game\p_hud.c(245): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+  p_client.c
+d:\work\aman\quake-2\game\p_client.c(48): warning C4311: 'type cast': pointer truncation from 'char **' to 'int'
+d:\work\aman\quake-2\game\p_client.c(744): warning C4311: 'type cast': pointer truncation from 'char **' to 'int'
+d:\work\aman\quake-2\game\p_client.c(775): warning C4311: 'type cast': pointer truncation from 'char **' to 'int'
+d:\work\aman\quake-2\game\p_client.c(799): warning C4311: 'type cast': pointer truncation from 'char **' to 'int'
+d:\work\aman\quake-2\game\p_client.c(817): warning C4311: 'type cast': pointer truncation from 'char **' to 'int'
+d:\work\aman\quake-2\game\p_client.c(848): warning C4311: 'type cast': pointer truncation from 'char **' to 'int'
+d:\work\aman\quake-2\game\p_client.c(887): warning C4311: 'type cast': pointer truncation from 'char **' to 'int'
+d:\work\aman\quake-2\game\p_client.c(903): warning C4311: 'type cast': pointer truncation from 'char **' to 'int'
+d:\work\aman\quake-2\game\p_client.c(1370): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+d:\work\aman\quake-2\game\p_client.c(1375): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(346): note: see declaration of 'strncpy'
+d:\work\aman\quake-2\game\p_client.c(1415): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(346): note: see declaration of 'strncpy'
+  m_tank.c
+  m_supertank.c
+  m_soldier.c
+  m_parasite.c
+  m_mutant.c
+  m_move.c
+  m_medic.c
+  m_insane.c
+  m_infantry.c
+  m_hover.c
+  m_gunner.c
+  m_gladiator.c
+  m_flyer.c
+  m_float.c
+  Generating Code...
+  Compiling...
+  m_flipper.c
+  m_flash.c
+  m_chick.c
+  m_brain.c
+  m_boss32.c
+  m_boss31.c
+  m_boss3.c
+  m_boss2.c
+  m_berserk.c
+  m_actor.c
+  g_weapon.c
+  g_utils.c
+d:\work\aman\quake-2\game\g_utils.c(132): warning C4311: 'type cast': pointer truncation from 'char **' to 'int'
+d:\work\aman\quake-2\game\g_utils.c(215): warning C4311: 'type cast': pointer truncation from 'char **' to 'int'
+d:\work\aman\quake-2\game\g_utils.c(232): warning C4311: 'type cast': pointer truncation from 'char **' to 'int'
+d:\work\aman\quake-2\game\g_utils.c(395): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+d:\work\aman\quake-2\game\g_utils.c(396): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+  g_turret.c
+  g_trigger.c
+  g_target.c
+d:\work\aman\quake-2\game\g_target.c(93): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(346): note: see declaration of 'strncpy'
+d:\work\aman\quake-2\game\g_target.c(121): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(346): note: see declaration of 'strncpy'
+d:\work\aman\quake-2\game\g_target.c(123): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(346): note: see declaration of 'strncpy'
+d:\work\aman\quake-2\game\g_target.c(616): warning C4311: 'type cast': pointer truncation from 'char **' to 'int'
+d:\work\aman\quake-2\game\g_target.c(689): warning C4311: 'type cast': pointer truncation from 'char **' to 'int'
+  g_svcmds.c
+d:\work\aman\quake-2\game\g_svcmds.c(249): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+d:\work\aman\quake-2\game\g_svcmds.c(251): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+d:\work\aman\quake-2\game\g_svcmds.c(255): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+  g_spawn.c
+d:\work\aman\quake-2\game\g_spawn.c(324): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+d:\work\aman\quake-2\game\g_spawn.c(380): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(2254): note: see declaration of 'sscanf'
+d:\work\aman\quake-2\game\g_spawn.c(433): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(346): note: see declaration of 'strncpy'
+d:\work\aman\quake-2\game\g_spawn.c(543): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(346): note: see declaration of 'strncpy'
+d:\work\aman\quake-2\game\g_spawn.c(544): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(346): note: see declaration of 'strncpy'
+d:\work\aman\quake-2\game\g_spawn.c(812): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+d:\work\aman\quake-2\game\g_spawn.c(819): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(346): note: see declaration of 'strncpy'
+d:\work\aman\quake-2\game\g_spawn.c(822): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(346): note: see declaration of 'strncpy'
+  g_save.c
+d:\work\aman\quake-2\game\g_save.c(28): warning C4311: 'type cast': pointer truncation from 'char **' to 'int'
+d:\work\aman\quake-2\game\g_save.c(29): warning C4311: 'type cast': pointer truncation from 'char **' to 'int'
+d:\work\aman\quake-2\game\g_save.c(30): warning C4311: 'type cast': pointer truncation from 'int *' to 'int'
+d:\work\aman\quake-2\game\g_save.c(31): warning C4311: 'type cast': pointer truncation from 'float *' to 'int'
+d:\work\aman\quake-2\game\g_save.c(32): warning C4311: 'type cast': pointer truncation from 'float *' to 'int'
+d:\work\aman\quake-2\game\g_save.c(33): warning C4311: 'type cast': pointer truncation from 'float *' to 'int'
+d:\work\aman\quake-2\game\g_save.c(34): warning C4311: 'type cast': pointer truncation from 'char **' to 'int'
+d:\work\aman\quake-2\game\g_save.c(35): warning C4311: 'type cast': pointer truncation from 'char **' to 'int'
+d:\work\aman\quake-2\game\g_save.c(36): warning C4311: 'type cast': pointer truncation from 'char **' to 'int'
+d:\work\aman\quake-2\game\g_save.c(37): warning C4311: 'type cast': pointer truncation from 'char **' to 'int'
+d:\work\aman\quake-2\game\g_save.c(38): warning C4311: 'type cast': pointer truncation from 'char **' to 'int'
+d:\work\aman\quake-2\game\g_save.c(39): warning C4311: 'type cast': pointer truncation from 'char **' to 'int'
+d:\work\aman\quake-2\game\g_save.c(40): warning C4311: 'type cast': pointer truncation from 'char **' to 'int'
+d:\work\aman\quake-2\game\g_save.c(41): warning C4311: 'type cast': pointer truncation from 'char **' to 'int'
+d:\work\aman\quake-2\game\g_save.c(42): warning C4311: 'type cast': pointer truncation from 'float *' to 'int'
+d:\work\aman\quake-2\game\g_save.c(43): warning C4311: 'type cast': pointer truncation from 'float *' to 'int'
+d:\work\aman\quake-2\game\g_save.c(44): warning C4311: 'type cast': pointer truncation from 'float *' to 'int'
+d:\work\aman\quake-2\game\g_save.c(45): warning C4311: 'type cast': pointer truncation from 'vec3_t (*)' to 'int'
+d:\work\aman\quake-2\game\g_save.c(46): warning C4311: 'type cast': pointer truncation from 'vec3_t (*)' to 'int'
+d:\work\aman\quake-2\game\g_save.c(47): warning C4311: 'type cast': pointer truncation from 'int *' to 'int'
+d:\work\aman\quake-2\game\g_save.c(48): warning C4311: 'type cast': pointer truncation from 'int *' to 'int'
+d:\work\aman\quake-2\game\g_save.c(49): warning C4311: 'type cast': pointer truncation from 'int *' to 'int'
+d:\work\aman\quake-2\game\g_save.c(50): warning C4311: 'type cast': pointer truncation from 'int *' to 'int'
+d:\work\aman\quake-2\game\g_save.c(52): warning C4311: 'type cast': pointer truncation from 'int *' to 'int'
+d:\work\aman\quake-2\game\g_save.c(53): warning C4311: 'type cast': pointer truncation from 'int *' to 'int'
+d:\work\aman\quake-2\game\g_save.c(54): warning C4311: 'type cast': pointer truncation from 'float *' to 'int'
+d:\work\aman\quake-2\game\g_save.c(55): warning C4311: 'type cast': pointer truncation from 'float *' to 'int'
+d:\work\aman\quake-2\game\g_save.c(56): warning C4311: 'type cast': pointer truncation from 'char **' to 'int'
+d:\work\aman\quake-2\game\g_save.c(57): warning C4311: 'type cast': pointer truncation from 'vec3_t (*)' to 'int'
+d:\work\aman\quake-2\game\g_save.c(58): warning C4311: 'type cast': pointer truncation from 'vec3_t (*)' to 'int'
+d:\work\aman\quake-2\game\g_save.c(59): warning C4311: 'type cast': pointer truncation from 'vec3_t (*)' to 'int'
+d:\work\aman\quake-2\game\g_save.c(61): warning C4311: 'type cast': pointer truncation from 'edict_t **' to 'int'
+d:\work\aman\quake-2\game\g_save.c(62): warning C4311: 'type cast': pointer truncation from 'edict_t **' to 'int'
+d:\work\aman\quake-2\game\g_save.c(63): warning C4311: 'type cast': pointer truncation from 'edict_t **' to 'int'
+d:\work\aman\quake-2\game\g_save.c(64): warning C4311: 'type cast': pointer truncation from 'edict_t **' to 'int'
+d:\work\aman\quake-2\game\g_save.c(65): warning C4311: 'type cast': pointer truncation from 'edict_t **' to 'int'
+d:\work\aman\quake-2\game\g_save.c(66): warning C4311: 'type cast': pointer truncation from 'edict_t **' to 'int'
+d:\work\aman\quake-2\game\g_save.c(67): warning C4311: 'type cast': pointer truncation from 'edict_t **' to 'int'
+d:\work\aman\quake-2\game\g_save.c(68): warning C4311: 'type cast': pointer truncation from 'edict_t **' to 'int'
+d:\work\aman\quake-2\game\g_save.c(69): warning C4311: 'type cast': pointer truncation from 'edict_t **' to 'int'
+d:\work\aman\quake-2\game\g_save.c(70): warning C4311: 'type cast': pointer truncation from 'edict_t **' to 'int'
+d:\work\aman\quake-2\game\g_save.c(71): warning C4311: 'type cast': pointer truncation from 'edict_t **' to 'int'
+d:\work\aman\quake-2\game\g_save.c(72): warning C4311: 'type cast': pointer truncation from 'edict_t **' to 'int'
+d:\work\aman\quake-2\game\g_save.c(73): warning C4311: 'type cast': pointer truncation from 'edict_t **' to 'int'
+d:\work\aman\quake-2\game\g_save.c(75): warning C4311: 'type cast': pointer truncation from 'void (__cdecl **)(edict_t *)' to 'int'
+d:\work\aman\quake-2\game\g_save.c(76): warning C4311: 'type cast': pointer truncation from 'void (__cdecl **)(edict_t *)' to 'int'
+d:\work\aman\quake-2\game\g_save.c(77): warning C4311: 'type cast': pointer truncation from 'void (__cdecl **)(edict_t *,edict_t *)' to 'int'
+d:\work\aman\quake-2\game\g_save.c(78): warning C4311: 'type cast': pointer truncation from 'void (__cdecl **)(edict_t *,edict_t *,cplane_t *,csurface_t *)' to 'int'
+d:\work\aman\quake-2\game\g_save.c(79): warning C4311: 'type cast': pointer truncation from 'void (__cdecl **)(edict_t *,edict_t *,edict_t *)' to 'int'
+d:\work\aman\quake-2\game\g_save.c(80): warning C4311: 'type cast': pointer truncation from 'void (__cdecl **)(edict_t *,edict_t *,float,int)' to 'int'
+d:\work\aman\quake-2\game\g_save.c(81): warning C4311: 'type cast': pointer truncation from 'void (__cdecl **)(edict_t *,edict_t *,edict_t *,int,vec_t *)' to 'int'
+d:\work\aman\quake-2\game\g_save.c(83): warning C4311: 'type cast': pointer truncation from 'void (__cdecl **)(edict_t *)' to 'int'
+d:\work\aman\quake-2\game\g_save.c(84): warning C4311: 'type cast': pointer truncation from 'void (__cdecl **)(edict_t *)' to 'int'
+d:\work\aman\quake-2\game\g_save.c(85): warning C4311: 'type cast': pointer truncation from 'void (__cdecl **)(edict_t *)' to 'int'
+d:\work\aman\quake-2\game\g_save.c(86): warning C4311: 'type cast': pointer truncation from 'void (__cdecl **)(edict_t *)' to 'int'
+d:\work\aman\quake-2\game\g_save.c(87): warning C4311: 'type cast': pointer truncation from 'void (__cdecl **)(edict_t *)' to 'int'
+d:\work\aman\quake-2\game\g_save.c(88): warning C4311: 'type cast': pointer truncation from 'void (__cdecl **)(edict_t *,edict_t *,float)' to 'int'
+d:\work\aman\quake-2\game\g_save.c(89): warning C4311: 'type cast': pointer truncation from 'void (__cdecl **)(edict_t *)' to 'int'
+d:\work\aman\quake-2\game\g_save.c(90): warning C4311: 'type cast': pointer truncation from 'void (__cdecl **)(edict_t *)' to 'int'
+d:\work\aman\quake-2\game\g_save.c(91): warning C4311: 'type cast': pointer truncation from 'void (__cdecl **)(edict_t *,edict_t *)' to 'int'
+d:\work\aman\quake-2\game\g_save.c(92): warning C4311: 'type cast': pointer truncation from 'qboolean (__cdecl **)(edict_t *)' to 'int'
+d:\work\aman\quake-2\game\g_save.c(93): warning C4311: 'type cast': pointer truncation from 'mmove_t **' to 'int'
+d:\work\aman\quake-2\game\g_save.c(95): warning C4311: 'type cast': pointer truncation from 'void (__cdecl **)(edict_t *)' to 'int'
+d:\work\aman\quake-2\game\g_save.c(98): warning C4311: 'type cast': pointer truncation from 'int *' to 'int'
+d:\work\aman\quake-2\game\g_save.c(99): warning C4311: 'type cast': pointer truncation from 'int *' to 'int'
+d:\work\aman\quake-2\game\g_save.c(100): warning C4311: 'type cast': pointer truncation from 'int *' to 'int'
+d:\work\aman\quake-2\game\g_save.c(101): warning C4311: 'type cast': pointer truncation from 'char **' to 'int'
+d:\work\aman\quake-2\game\g_save.c(102): warning C4311: 'type cast': pointer truncation from 'float *' to 'int'
+d:\work\aman\quake-2\game\g_save.c(103): warning C4311: 'type cast': pointer truncation from 'char **' to 'int'
+d:\work\aman\quake-2\game\g_save.c(106): warning C4311: 'type cast': pointer truncation from 'gitem_t **' to 'int'
+d:\work\aman\quake-2\game\g_save.c(108): warning C4311: 'type cast': pointer truncation from 'char **' to 'int'
+d:\work\aman\quake-2\game\g_save.c(109): warning C4311: 'type cast': pointer truncation from 'char **' to 'int'
+d:\work\aman\quake-2\game\g_save.c(110): warning C4311: 'type cast': pointer truncation from 'float *' to 'int'
+d:\work\aman\quake-2\game\g_save.c(111): warning C4311: 'type cast': pointer truncation from 'vec3_t (*)' to 'int'
+d:\work\aman\quake-2\game\g_save.c(112): warning C4311: 'type cast': pointer truncation from 'float *' to 'int'
+d:\work\aman\quake-2\game\g_save.c(113): warning C4311: 'type cast': pointer truncation from 'float *' to 'int'
+d:\work\aman\quake-2\game\g_save.c(114): warning C4311: 'type cast': pointer truncation from 'float *' to 'int'
+d:\work\aman\quake-2\game\g_save.c(115): warning C4311: 'type cast': pointer truncation from 'float *' to 'int'
+d:\work\aman\quake-2\game\g_save.c(116): warning C4311: 'type cast': pointer truncation from 'char **' to 'int'
+d:\work\aman\quake-2\game\g_save.c(124): warning C4311: 'type cast': pointer truncation from 'char **' to 'int'
+d:\work\aman\quake-2\game\g_save.c(126): warning C4311: 'type cast': pointer truncation from 'edict_t **' to 'int'
+d:\work\aman\quake-2\game\g_save.c(127): warning C4311: 'type cast': pointer truncation from 'edict_t **' to 'int'
+d:\work\aman\quake-2\game\g_save.c(128): warning C4311: 'type cast': pointer truncation from 'edict_t **' to 'int'
+d:\work\aman\quake-2\game\g_save.c(129): warning C4311: 'type cast': pointer truncation from 'edict_t **' to 'int'
+d:\work\aman\quake-2\game\g_save.c(136): warning C4311: 'type cast': pointer truncation from 'gitem_t **' to 'int'
+d:\work\aman\quake-2\game\g_save.c(137): warning C4311: 'type cast': pointer truncation from 'gitem_t **' to 'int'
+d:\work\aman\quake-2\game\g_save.c(138): warning C4311: 'type cast': pointer truncation from 'gitem_t **' to 'int'
+d:\work\aman\quake-2\game\g_save.c(248): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+d:\work\aman\quake-2\game\g_save.c(313): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+d:\work\aman\quake-2\game\g_save.c(469): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+d:\work\aman\quake-2\game\g_save.c(474): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+d:\work\aman\quake-2\game\g_save.c(495): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+d:\work\aman\quake-2\game\g_save.c(635): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+d:\work\aman\quake-2\game\g_save.c(690): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+  g_phys.c
+  g_monster.c
+d:\work\aman\quake-2\game\g_monster.c(600): warning C4311: 'type cast': pointer truncation from 'char **' to 'int'
+d:\work\aman\quake-2\game\g_monster.c(624): warning C4311: 'type cast': pointer truncation from 'char **' to 'int'
+  Generating Code...
+  Compiling...
+  g_misc.c
+d:\work\aman\quake-2\game\g_misc.c(1371): warning C4311: 'type cast': pointer truncation from 'char **' to 'int'
+d:\work\aman\quake-2\game\g_misc.c(1583): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+d:\work\aman\quake-2\game\g_misc.c(1679): warning C4311: 'type cast': pointer truncation from 'char **' to 'int'
+d:\work\aman\quake-2\game\g_misc.c(1700): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\time.h(505): note: see declaration of 'localtime'
+d:\work\aman\quake-2\game\g_misc.c(1790): warning C4311: 'type cast': pointer truncation from 'char **' to 'int'
+  g_main.c
+d:\work\aman\quake-2\game\g_main.c(148): warning C4996: 'vsprintf': This function or variable may be unsafe. Consider using vsprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1465): note: see declaration of 'vsprintf'
+d:\work\aman\quake-2\game\g_main.c(160): warning C4996: 'vsprintf': This function or variable may be unsafe. Consider using vsprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1465): note: see declaration of 'vsprintf'
+d:\work\aman\quake-2\game\g_main.c(260): warning C4311: 'type cast': pointer truncation from 'char **' to 'int'
+d:\work\aman\quake-2\game\g_main.c(233): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(552): note: see declaration of 'strdup'
+d:\work\aman\quake-2\game\g_main.c(235): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(453): note: see declaration of 'strtok'
+d:\work\aman\quake-2\game\g_main.c(239): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(453): note: see declaration of 'strtok'
+d:\work\aman\quake-2\game\g_main.c(252): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(453): note: see declaration of 'strtok'
+  g_items.c
+  g_func.c
+d:\work\aman\quake-2\game\g_func.c(859): warning C4311: 'type cast': pointer truncation from 'char **' to 'int'
+  g_combat.c
+  g_cmds.c
+d:\work\aman\quake-2\game\g_cmds.c(34): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+d:\work\aman\quake-2\game\g_cmds.c(57): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+d:\work\aman\quake-2\game\g_cmds.c(58): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+d:\work\aman\quake-2\game\g_cmds.c(722): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note: see declaration of 'strcat'
+d:\work\aman\quake-2\game\g_cmds.c(725): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note: see declaration of 'strcat'
+d:\work\aman\quake-2\game\g_cmds.c(808): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note: see declaration of 'strcat'
+d:\work\aman\quake-2\game\g_cmds.c(809): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note: see declaration of 'strcat'
+d:\work\aman\quake-2\game\g_cmds.c(810): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note: see declaration of 'strcat'
+d:\work\aman\quake-2\game\g_cmds.c(821): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note: see declaration of 'strcat'
+d:\work\aman\quake-2\game\g_cmds.c(828): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note: see declaration of 'strcat'
+d:\work\aman\quake-2\game\g_cmds.c(885): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+d:\work\aman\quake-2\game\g_cmds.c(893): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+d:\work\aman\quake-2\game\g_cmds.c(897): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note: see declaration of 'strcat'
+  g_chase.c
+  g_ai.c
+  Generating Code...
+q_shared.obj : error LNK2019: unresolved external symbol strcasecmp referenced in function Q_stricmp
+D:\work\aman\Quake-2\x64\Debug\game.dll : fatal error LNK1120: 1 unresolved externals

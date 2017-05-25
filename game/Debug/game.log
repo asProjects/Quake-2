@@ -1,0 +1,59 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(368,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  q_shared.c
+  p_weapon.c
+  p_view.c
+  p_trail.c
+  p_hud.c
+  p_client.c
+  m_tank.c
+  m_supertank.c
+  m_soldier.c
+  m_parasite.c
+  m_mutant.c
+  m_move.c
+  m_medic.c
+  m_insane.c
+  m_infantry.c
+  m_hover.c
+  m_gunner.c
+  m_gladiator.c
+  m_flyer.c
+  m_float.c
+  Generating Code...
+  Compiling...
+  m_flipper.c
+  m_flash.c
+  m_chick.c
+  m_brain.c
+  m_boss32.c
+  m_boss31.c
+  m_boss3.c
+  m_boss2.c
+  m_berserk.c
+  m_actor.c
+  g_weapon.c
+  g_utils.c
+  g_turret.c
+  g_trigger.c
+  g_target.c
+  g_svcmds.c
+  g_spawn.c
+  g_save.c
+  g_phys.c
+  g_monster.c
+  Generating Code...
+  Compiling...
+  g_misc.c
+  g_main.c
+  g_items.c
+  g_func.c
+  g_combat.c
+  g_cmds.c
+  g_chase.c
+  g_ai.c
+  Generating Code...
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(1189,5): warning MSB8012: TargetPath(D:\work\aman\Quake-2\Quake2\baseq2\game.dll) does not match the Linker's OutputFile property value (D:\work\aman\Quake-2\Quake2\baseq2\gamex86.dll). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(1191,5): warning MSB8012: TargetName(game) does not match the Linker's OutputFile property value (gamex86). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+     Creating library D:\work\aman\Quake-2\Quake2\baseq2\game.lib and object D:\work\aman\Quake-2\Quake2\baseq2\game.exp
+  game.vcxproj -> D:\work\aman\Quake-2\Quake2\baseq2\game.dll
+  game.vcxproj -> D:\work\aman\Quake-2\Quake2\baseq2\game.pdb (Full PDB)
