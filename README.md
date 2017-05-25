@@ -1,4 +1,4 @@
-# Quake-2
+# Quake-2 VS2015
 Quake 2 GPL Source Release
 
 This is the Visual Studio 2015 build of Id Software's Quake 2 Source Code. The aim of this project is to study the 
